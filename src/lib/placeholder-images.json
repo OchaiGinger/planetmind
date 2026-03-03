@@ -1,0 +1,82 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-brain-bg",
+      "description": "Glowing neural brain network on a light and dark gradient background",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxuZXVyYWwlMjBicmFpbiUyMG5ldHdvcmt8ZW58MHx8fHwxNzczNTU1OTY5fDA&ixlib=rb-4.1.0&q=80&w=1920",
+      "imageHint": "neural brain network"
+    },
+    {
+      "id": "hero-globe",
+      "description": "3D rendered stylized Earth globe with data mesh",
+      "imageUrl": "https://images.unsplash.com/photo-1770723965051-249655a8aedb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZWFydGglMjBnbG9iZSUyMGRhdGF8ZW58MHx8fHwxNzcyMjM5MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "earth globe data"
+    },
+    {
+      "id": "damage-algae",
+      "description": "Macro shot of contaminated water with thick algae",
+      "imageUrl": "https://images.unsplash.com/photo-1749805339958-4b1d0f16423d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwb2xsdXRlZCUyMHdhdGVyfGVufDB8fHx8MTc3MjIzOTIwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "polluted water"
+    },
+    {
+      "id": "damage-waste",
+      "description": "Macro shot of compacted industrial waste",
+      "imageUrl": "https://images.unsplash.com/photo-1692735330799-1e3054bfaef8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0cmFzaCUyMHBsYXN0aWN8ZW58MHx8fHwxNzcyMjM5MjA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "trash plastic"
+    },
+    {
+      "id": "app-phone",
+      "description": "3D rendered smartphone showing environmental reporting app",
+      "imageUrl": "https://images.unsplash.com/photo-1745848413099-13adc3aaf308?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzbWFydHBob25lJTIwYXBwfGVufDB8fHx8MTc3MjIzOTIwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smartphone app"
+    },
+    {
+      "id": "river-pollution-video",
+      "description": "Drone footage of industrial river pollution",
+      "imageUrl": "https://images.unsplash.com/photo-1612510158990-a675aa31b009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxyaXZlciUyMHBvbGx1dGlvbnxlbnwwfHx8fDE3NzIyMTE3NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "river pollution"
+    },
+    {
+      "id": "hero-landscape",
+      "description": "Healthy forest landscape",
+      "imageUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmb3Jlc3QlMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzcyMzQxMzU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "forest landscape"
+    },
+    {
+      "id": "farm-aerial",
+      "description": "Aerial view of a healthy ecosystem",
+      "imageUrl": "https://images.unsplash.com/photo-1759681770982-313332e7f42c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhZXJpYWwlMjBlY29zeXN0ZW18ZW58MHx8fHwxNzcyMzQxMzU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "aerial ecosystem"
+    },
+    {
+      "id": "reporter-hands",
+      "description": "Hands holding a smartphone documenting environmental damage",
+      "imageUrl": "https://images.unsplash.com/photo-1550309445-f37cdbe890fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aGFuZHMlMjBzbWFydHBob25lfGVufDB8fHx8MTc3MjIzOTIwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hands smartphone"
+    },
+    {
+      "id": "reporter-field",
+      "description": "Citizen scientist standing at a polluted site with a phone",
+      "imageUrl": "https://images.unsplash.com/photo-1664133592521-aba3b4e28c88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwZXJzb24lMjBlbnZpcm9ubWVudHxlbnwwfHx8fDE3NzIyMzkyMDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person environment"
+    },
+    {
+      "id": "avatar-1",
+      "description": "Citizen scientist profile photo",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NzIxNjQ2Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar-2",
+      "description": "Citizen scientist profile photo",
+      "imageUrl": "https://images.unsplash.com/photo-1540569014015-19a7be504e3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NzIxNjQ2Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar-3",
+      "description": "Citizen scientist profile photo",
+      "imageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NzIxNjQ2Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    }
+  ]
+}
