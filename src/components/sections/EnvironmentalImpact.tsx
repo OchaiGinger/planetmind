@@ -57,7 +57,7 @@ export default function EnvironmentalImpact({
         {[0, 1, 2, 3].map((_, i) => (
           <div
             key={`h${i}`}
-            className="absolute left-0 right-0 h-px"
+            className="absolute left-0 right-0 h-1px"
             style={{ top: `${(i / 3) * 100}%`, backgroundColor: `${NEURAL}18` }}
           />
         ))}
@@ -125,9 +125,9 @@ export default function EnvironmentalImpact({
             className="impact-clip-right font-bold leading-[1.05] tracking-tight"
             style={{ fontSize: "clamp(26px, 7.5vw, 38px)", color: TEXT }}
           >
-            never make it
+            never gets
             <br />
-            to your plants
+            reported
           </h2>
         </div>
 
@@ -148,9 +148,10 @@ export default function EnvironmentalImpact({
               maxWidth: "100%",
             }}
           >
-            Most of what you apply never reaches your crops. It evaporates,
-            washes away, or gets locked in the soil — leaving you with lower
-            yields, more spraying, and higher costs.
+            Most pollution events, illegal dumping, infrastructure failures, and
+            early climate signals go undocumented. PlanetMind turns everyday
+            observations into permanent, verifiable reports — creating
+            visibility where silence used to win.
           </p>
         </div>
 
@@ -216,9 +217,9 @@ export default function EnvironmentalImpact({
                   whiteSpace: "nowrap",
                 }}
               >
-                never make it
+                never gets
                 <br />
-                to your plants
+                reported
               </h2>
             </div>
           </div>
@@ -237,9 +238,10 @@ export default function EnvironmentalImpact({
               className="impact-clip-right font-medium leading-relaxed"
               style={{ fontSize: "15px", color: TEXT, opacity: 0.85 }}
             >
-              Most of what you apply never reaches your crops. It evaporates,
-              washes away, or gets locked in the soil — leaving you with lower
-              yields, more spraying, and higher costs.
+              Most pollution events, illegal dumping, infrastructure failures,
+              and early climate signals go undocumented. PlanetMind turns
+              everyday observations into permanent, verifiable reports —
+              creating visibility where silence used to win.
             </p>
           </div>
         </div>
@@ -332,9 +334,9 @@ export default function EnvironmentalImpact({
                 whiteSpace: "nowrap",
               }}
             >
-              never make it
+              never gets
               <br />
-              to your plants
+              reported
             </h2>
           </div>
         </div>
@@ -354,9 +356,10 @@ export default function EnvironmentalImpact({
                 opacity: 0.85,
               }}
             >
-              Most of what you apply never reaches your crops. It evaporates,
-              washes away, or gets locked in the soil — leaving you with lower
-              yields, more spraying, and higher costs.
+              Most pollution events, illegal dumping, infrastructure failures,
+              and early climate signals go undocumented. PlanetMind turns
+              everyday observations into permanent, verifiable reports —
+              creating visibility where silence used to win.
             </p>
           </div>
         </div>

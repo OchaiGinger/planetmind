@@ -10,10 +10,10 @@ import { Button } from "@/components/ui/button";
 gsap.registerPlugin(ScrollTrigger);
 
 const STATS = [
-  { val: "140+", label: "COUNTRIES\nREPORTING" },
-  { val: "18M+", label: "VERIFIED\nOBSERVATIONS" },
+  { val: "2026", label: "PUBLIC\nLAUNCH" },
+  { val: "Phase 1", label: "COMMUNITY\nPILOT" },
   { val: "0", label: "REPORTS THAT\nDISAPPEAR" },
-  { val: "≥12×", label: "B3TR EARNED VS.\nAPP ENGAGEMENT" },
+  { val: "Open", label: "GLOBAL\nPARTICIPATION" },
 ];
 
 export default function SplitStats() {

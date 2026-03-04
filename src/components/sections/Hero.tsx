@@ -8,7 +8,7 @@ const SLIDES = [
     badge: "EARN B3TR TOKENS",
     title: "REPORT.",
     subtitle: "EARN PLANET.",
-    body: "Turn your environmental observations into real rewards. Every report you submit builds Earth's largest real-time intelligence database — powered by billions of citizen scientists like you.",
+    body: "Turn your environmental observations into real rewards. Every report you submit helps build Earth's most transparent, real-time environmental intelligence layer — powered by citizen scientists like you.",
     showLine: false,
   },
   {
