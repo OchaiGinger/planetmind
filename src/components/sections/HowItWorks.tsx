@@ -125,7 +125,7 @@ export default function HowItWorks() {
         const centerPanels = gsap.utils.toArray(".grid-panel-r1");
         const topPanels = gsap.utils.toArray(".grid-panel-r0");
 
-        const scrollEnd = isMobile ? "+=400%" : "+=700%";
+        const scrollEnd = `+=${SCROLL_MULTIPLIER * 100 - 50}%`;
         const scrubVal = isMobile ? 1.5 : 1;
 
         const tl = gsap.timeline({
