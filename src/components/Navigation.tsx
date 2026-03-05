@@ -57,7 +57,6 @@ const MENU_ITEMS = [
       { label: "Educator's Guide", href: "#educators" },
       { label: "Video Tutorials", href: "#videos" },
       { label: "Curator Guide", href: "#curator" },
-      { label: "Donate", href: "#donate" },
     ],
   },
 ];
