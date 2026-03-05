@@ -3,7 +3,8 @@ import "./globals.css";
 import PageLoader from "@/components/PageLoader";
 
 export const metadata: Metadata = {
-  title: "PlanetMind | Earth's Largest Environmental Intelligence Database",
+  title:
+    "PlanetMind | Building Earth's Largest Environmental Intelligence Database",
   description:
     "Earn B3TR tokens by reporting environmental observations and protecting the planet.",
 };

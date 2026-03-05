@@ -337,8 +337,8 @@ export default function Navigation() {
               · Request Access ·
             </p>
             <p className="text-white/30 text-base lg:text-lg font-light leading-relaxed max-w-sm">
-              Earth's largest real-time environmental intelligence network —
-              powered by citizens like you.
+              Building Earth's largest real-time environmental intelligence
+              network — powered by citizens like you.
             </p>
           </div>
 
